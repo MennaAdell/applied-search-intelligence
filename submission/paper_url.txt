@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://github.com/MennaAdell/applied-search-intelligence/blob/main/work/notebooks/capstone.ipynb
